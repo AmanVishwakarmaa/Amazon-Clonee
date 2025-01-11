@@ -8,5 +8,5 @@ Product Showcase: Displays products in a grid layout.
 Header Navigation: Includes a search bar, sign-in, and shopping cart buttons.
 Footer: Contains links to various pages and resources.
 Technologies Used
-HTML5: The basic structure of the landing page.
-CSS3: Styling and layout management.
+HTML: The basic structure of the landing page.
+CSS: Styling and layout management.
